@@ -2,6 +2,8 @@
 
 # 🤖 Free Claude Code
 
+> **Custom Extension:** Added **Antigravity (Google Cloud Code)** provider support to Free Claude Code — including full OAuth PKCE authentication flow, Gemini `generateContent` translation, JSON Schema normalization, `MALFORMED_FUNCTION_CALL` auto-retries, and Admin UI integration.
+
 Use Claude Code CLI, VS Code, JetBrains ACP, or chat bots through your own Anthropic-compatible proxy.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
